@@ -4,6 +4,9 @@
 - 💞️ I’m looking to collaborate on .Net Core APIs, either REST or GraphQL
 - 📫 How to reach me : @profnatoe on twitter | Email: sitoenando@outlook.com
 
+##
+My goals for 2022 is to learn front-end development so that I can become a fullstack developer.
+
 <!---
 profnatoe/profnatoe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
